@@ -1,0 +1,21 @@
+{ 
+    "title": "Industrial Architecture of Montreal",
+    "url": "https://sgolds15.github.io/industrial/",
+    "image": "https://sgolds15.github.io/industrial/assets/img/farine_five_roses.jpg", 
+    "description": "An index of industrial buildings in the city of Montreal, originally created by McGill Libraries in 1999",
+    "publisher": { 
+        "name": "McGill Libraries", 
+        "url": "https://www.mcgill.ca/library/find/digitization", 
+        "logo": "assets/img/McG_LIBRARIES_rgb_red_hor_bi.png" 
+    },
+    "date_start": "1825",
+    "date_end": "1958",
+    "objects": {
+        "image/jpeg": "146",
+        null: "0"
+        
+    },
+    "data": "https://sgolds15.github.io/industrial/assets/data/datapackage.json",
+    "last_build_date": "2024-08-06"
+}
+

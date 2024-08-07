@@ -1,0 +1,97 @@
+{
+    "profile": "data-package",
+    "name": "industrial-architecture-of-montreal-data",
+    "title": "Industrial Architecture of Montreal Data",
+    "description": "Metadata and data derived from Industrial Architecture of Montreal. An index of industrial buildings in the city of Montreal, originally created by McGill Libraries in 1999",
+    "keywords":  ["montreal","quebec","architecture","industrial","industrial architecture"],
+    "homepage": "https://sgolds15.github.io/industrial/",
+    "contributors": [
+        {
+            "title": "McGill Libraries",
+            "path": "https://www.mcgill.ca/library/find/digitization",
+            "role": "author"
+        }
+    ],
+    "image": "https://sgolds15.github.io/industrial/assets/img/farine_five_roses.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Industrial Architecture of Montreal Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        {
+            "name": "locations-csv",
+            "path": "subjects.csv",
+            "title": "Industrial Architecture of Montreal metadata location counts in csv",
+            "description": "Unique values and counts of metadata location fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "locations-json",
+            "path": "locations.json",
+            "title": "Industrial Architecture of Montreal metadata location counts in json",
+            "description":"Unique values and counts of metadata location fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "Industrial Architecture of Montreal geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Industrial Architecture of Montreal full metadata in csv",
+            "description": "Complete metadata export for Industrial Architecture of Montreal objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Industrial Architecture of Montreal full metadata in json",
+            "description": "Complete metadata export for Industrial Architecture of Montreal objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

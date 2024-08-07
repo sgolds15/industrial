@@ -1,0 +1,82 @@
+{
+    "facets": [ 
+        {
+            "field": "architect",
+            "terms": { 
+                "spence, d. jerome": 3,
+                "hutchison, alexander cowper": 3,
+                "ostell, john": 2,
+                "laurent, michel": 2,
+                "carmichael, william john": 2,
+                "comber, sydney": 2,
+                "footner, william": 1,
+                "boxer, frederick (francois) nepheau": 1,
+                "resther, jean baptiste": 1,
+                "reeves, charles aimé": 1,
+                "stone, howard c.": 1,
+                "brown, david robertson": 1,
+                "robb, frederick garfield": 1,
+                "amos, louis auguste": 1,
+                "cormier, ernest": 1,
+                "wells, john": 1,
+                "arrols of clyde, william": 1,
+                "springle, james k.": 1,
+                "hettinger, c.f.": 1,
+                "e.l. horwood": 1
+            }
+        },
+        {
+            "field": "building_type",
+            "terms": { 
+                "factory": 36,
+                "metalworking plant": 14,
+                "storage facility": 12,
+                "warehouse": 10,
+                "textile mill": 9,
+                "light manufacturing": 8,
+                "industrial complex": 7,
+                "beverage processing plant": 4,
+                "food processing plant": 4,
+                "flour mill": 4,
+                "printing plant": 3,
+                "brewery": 3,
+                "utilities building": 3,
+                "grain elevator": 3,
+                "assembly plant": 2,
+                "refinery": 2,
+                "packing plant": 2,
+                "processing plant": 2,
+                "gasworks": 1,
+                "pattern shop": 1,
+                "office building": 1,
+                "machine shop": 1
+            }
+        },
+        {
+            "field": "architecture_firm",
+            "terms": { 
+                "brown & vallance": 4,
+                "macvicar & heriot": 3,
+                "hutchison, wood & miller": 3,
+                "finley & spence": 2,
+                "john metcalf co. ltd. (engineers)": 2,
+                "hopkins, lawford & nelson": 1,
+                "j.w. & e.c. hopkins": 1,
+                "ostell & perrault": 1,
+                "hutchison & wood": 1,
+                "dunlop & heriot": 1,
+                "macduff & lemieux": 1,
+                "marchand & haskell": 1,
+                "mitchell & creighton": 1,
+                "dufort & décary": 1,
+                "ross & macfarlane": 1,
+                "ross & macdonald": 1,
+                "mcdougall & pease": 1,
+                "perrault & gadbois": 1,
+                "t. pringle & son (engineers)": 1,
+                "engineers of imperial tobacco": 1
+            }
+        }
+        
+    ]
+}

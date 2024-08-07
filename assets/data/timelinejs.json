@@ -1,0 +1,1626 @@
+{
+    "title": {
+        "media": {
+          "url": "https://sgolds15.github.io/industrial/assets/img/farine_five_roses.jpg",
+          "caption": null,
+          "credit": "Industrial Architecture of Montreal"
+        },
+        "text": {
+          "headline": "Industrial Architecture of Montreal Timeline",
+          "text": "An index of industrial buildings in the city of Montreal, originally created by McGill Libraries in 1999"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/mrsw01.jpg",
+          "caption": "Mount Royal Spinning Wool Co. Ltd./ Dominion Textile Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in001.html"
+        },
+        "start_date": { 
+          
+          "year": "1908"
+        },
+        "text": {
+          "headline": "Mount Royal Spinning Wool Co. Ltd./ Dominion Textile Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canmalt.jpg",
+          "caption": "Canada Malting Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in002.html"
+        },
+        "start_date": { 
+          
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Canada Malting Co. Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/unity.jpg",
+          "caption": "Unity Building",
+          "link": "https://sgolds15.github.io/industrial/items/in003.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Unity Building",
+          "text": "View, looking south-east, along St-Alexandre"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/sherwill.jpg",
+          "caption": "Sherwin-Williams Company Limited",
+          "link": "https://sgolds15.github.io/industrial/items/in004.html"
+        },
+        "start_date": { 
+          
+          "year": "1903"
+        },
+        "text": {
+          "headline": "Sherwin-Williams Company Limited"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/caron.jpg",
+          "caption": "Caron Building",
+          "link": "https://sgolds15.github.io/industrial/items/in005.html"
+        },
+        "start_date": { 
+          
+          "year": "1923"
+        },
+        "text": {
+          "headline": "Caron Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/gault.jpg",
+          "caption": "Gault Brothers Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in006.html"
+        },
+        "start_date": { 
+          
+          "year": "1901"
+        },
+        "text": {
+          "headline": "Gault Brothers Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/belgo01.jpg",
+          "caption": "Belgo Building",
+          "link": "https://sgolds15.github.io/industrial/items/in007.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Belgo Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/lambe.jpg",
+          "caption": "Warehouses of William Busby Lambe",
+          "link": "https://sgolds15.github.io/industrial/items/in008.html"
+        },
+        "start_date": { 
+          
+          "year": "1857"
+        },
+        "text": {
+          "headline": "Warehouses of William Busby Lambe",
+          "text": "View looking north-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/wilson01.jpg",
+          "caption": "J.C. Wilson & Co. Building/Edifice Wilson",
+          "link": "https://sgolds15.github.io/industrial/items/in010.html"
+        },
+        "start_date": { 
+          
+          "year": "1880"
+        },
+        "text": {
+          "headline": "J.C. Wilson & Co. Building/Edifice Wilson"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/newcity.jpg",
+          "caption": "New City Gas Company of Montreal",
+          "link": "https://sgolds15.github.io/industrial/items/in011.html"
+        },
+        "start_date": { 
+          
+          "year": "1861"
+        },
+        "text": {
+          "headline": "New City Gas Company of Montreal",
+          "text": "View, looking south-east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/frothworkman01.jpg",
+          "caption": "Frothingham and Workman Warehouse",
+          "link": "https://sgolds15.github.io/industrial/items/in012.html"
+        },
+        "start_date": { 
+          
+          "year": "1852"
+        },
+        "text": {
+          "headline": "Frothingham and Workman Warehouse"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/thomashood.jpg",
+          "caption": "Ateliers Thomas Hood",
+          "link": "https://sgolds15.github.io/industrial/items/in013.html"
+        },
+        "start_date": { 
+          
+          "year": "1860"
+        },
+        "text": {
+          "headline": "Ateliers Thomas Hood",
+          "text": "View, looking east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/rmitchell02.jpg",
+          "caption": "Robert Mitchell Co./Montreal Brass Works",
+          "link": "https://sgolds15.github.io/industrial/items/in014.html"
+        },
+        "start_date": { 
+          
+          "year": "1862"
+        },
+        "text": {
+          "headline": "Robert Mitchell Co./Montreal Brass Works",
+          "text": "Advertisement from 1916; from Construction 9:11 (Nov. 1916) 50."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ivesall2.jpg",
+          "caption": "Ives and Allen Company",
+          "link": "https://sgolds15.github.io/industrial/items/in015.html"
+        },
+        "start_date": { 
+          
+          "year": "1872"
+        },
+        "text": {
+          "headline": "Ives and Allen Company",
+          "text": "View, looking north, shortly after demolition (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/wfoster01.jpg",
+          "caption": "Watson Foster Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in016.html"
+        },
+        "start_date": { 
+          
+          "year": "1897"
+        },
+        "text": {
+          "headline": "Watson Foster Co. Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/sommer.jpg",
+          "caption": "Sommer Building",
+          "link": "https://sgolds15.github.io/industrial/items/in017.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Sommer Building",
+          "text": "View, looking north-west, along rue Ontario (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/puremilk04.jpg",
+          "caption": "Guaranteed Pure Milk Company",
+          "link": "https://sgolds15.github.io/industrial/items/in018.html"
+        },
+        "start_date": { 
+          
+          "year": "1931"
+        },
+        "text": {
+          "headline": "Guaranteed Pure Milk Company"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Guaranteed Pure Milk Company (1835)",
+          "link": "https://sgolds15.github.io/industrial/items/in019.html"
+        },
+        "start_date": { 
+          
+          "year": "1835"
+        },
+        "text": {
+          "headline": "Guaranteed Pure Milk Company (1835)"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Toilet Laundry Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in020.html"
+        },
+        "start_date": { 
+          
+          "year": "1924"
+        },
+        "text": {
+          "headline": "Toilet Laundry Co. Ltd."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Crathern and Caverhill",
+          "link": "https://sgolds15.github.io/industrial/items/in021.html"
+        },
+        "start_date": { 
+          
+          "year": "1871"
+        },
+        "text": {
+          "headline": "Crathern and Caverhill"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/usinejas.jpg",
+          "caption": "Usine Jas. McCready/ Edifice le Cours St.Pierre",
+          "link": "https://sgolds15.github.io/industrial/items/in022.html"
+        },
+        "start_date": { 
+          
+          "year": "1873"
+        },
+        "text": {
+          "headline": "Usine Jas. McCready/ Edifice le Cours St.Pierre"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ekers01.jpg",
+          "caption": "Eker's Brewery",
+          "link": "https://sgolds15.github.io/industrial/items/in023.html"
+        },
+        "start_date": { 
+          
+          "year": "1894"
+        },
+        "text": {
+          "headline": "Eker's Brewery"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/howemc.jpg",
+          "caption": "Warehouses of Howe & McIntyre",
+          "link": "https://sgolds15.github.io/industrial/items/in024.html"
+        },
+        "start_date": { 
+          
+          "year": "1907"
+        },
+        "text": {
+          "headline": "Warehouses of Howe & McIntyre",
+          "text": "View, facing west, of front façade (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/tooke04.jpg",
+          "caption": "The Grovers Building/Tooke Brothers Limited",
+          "link": "https://sgolds15.github.io/industrial/items/in025.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "The Grovers Building/Tooke Brothers Limited"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/elecman1.jpg",
+          "caption": "Northern Electric and Manufacturing Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in026.html"
+        },
+        "start_date": { 
+          
+          "year": "1906"
+        },
+        "text": {
+          "headline": "Northern Electric and Manufacturing Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/logrothe01.jpg",
+          "caption": "L.-O. Grothé Building",
+          "link": "https://sgolds15.github.io/industrial/items/in027.html"
+        },
+        "start_date": { 
+          
+          "year": "1906"
+        },
+        "text": {
+          "headline": "L.-O. Grothé Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/termina2.jpg",
+          "caption": "Terminal Warehousing and Cartage",
+          "link": "https://sgolds15.github.io/industrial/items/in028.html"
+        },
+        "start_date": { 
+          
+          "year": "1906"
+        },
+        "text": {
+          "headline": "Terminal Warehousing and Cartage"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/lyman.jpg",
+          "caption": "Lyman Building",
+          "link": "https://sgolds15.github.io/industrial/items/in029.html"
+        },
+        "start_date": { 
+          
+          "year": "1908"
+        },
+        "text": {
+          "headline": "Lyman Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/natlic03.jpg",
+          "caption": "Hershey Canada Inc./National Licorice Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in030.html"
+        },
+        "start_date": { 
+          
+          "year": "1907"
+        },
+        "text": {
+          "headline": "Hershey Canada Inc./National Licorice Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/unitedshoe.jpg",
+          "caption": "United Shoe Machinery Ltd./ Le Cours de Coubertin",
+          "link": "https://sgolds15.github.io/industrial/items/in031.html"
+        },
+        "start_date": { 
+          
+          "year": "1911"
+        },
+        "text": {
+          "headline": "United Shoe Machinery Ltd./ Le Cours de Coubertin",
+          "text": "View of renovated factory from the Olympic Stadium (1999)"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Vineberg Building/Berman Building",
+          "link": "https://sgolds15.github.io/industrial/items/in032.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Vineberg Building/Berman Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/read.jpg",
+          "caption": "Read Building",
+          "link": "https://sgolds15.github.io/industrial/items/in033.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Read Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/marconi03.jpg",
+          "caption": "Canadian Marconi Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in034.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "Canadian Marconi Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/herald.jpg",
+          "caption": "Montreal Herald Building/The Canada Building",
+          "link": "https://sgolds15.github.io/industrial/items/in035.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Montreal Herald Building/The Canada Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/southam02.jpg",
+          "caption": "Southam Building",
+          "link": "https://sgolds15.github.io/industrial/items/in036.html"
+        },
+        "start_date": { 
+          
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Southam Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/crane.jpg",
+          "caption": "Crane Company Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in037.html"
+        },
+        "start_date": { 
+          
+          "year": "1919"
+        },
+        "text": {
+          "headline": "Crane Company Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/jenkins.jpg",
+          "caption": "Jenkins Brothers Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in038.html"
+        },
+        "start_date": { 
+          
+          "year": "1906"
+        },
+        "text": {
+          "headline": "Jenkins Brothers Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/desbarat01.jpg",
+          "caption": "Desbarats' Building (The Gazette)/Wheatley & Wilson Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in039.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "Desbarats' Building (The Gazette)/Wheatley & Wilson Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/foodspec01.jpg",
+          "caption": "Food Specialists of Canada Building/Park Avenue Building",
+          "link": "https://sgolds15.github.io/industrial/items/in040.html"
+        },
+        "start_date": { 
+          
+          "year": "1936"
+        },
+        "text": {
+          "headline": "Food Specialists of Canada Building/Park Avenue Building"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/drummccall01.jpg",
+          "caption": "Drummond McCall Company Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in041.html"
+        },
+        "start_date": { 
+          
+          "year": "1923"
+        },
+        "text": {
+          "headline": "Drummond McCall Company Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/bernard01.jpg",
+          "caption": "Bernard Avenue Garage Ltd./Le Clos Saint-Bernard",
+          "link": "https://sgolds15.github.io/industrial/items/in042.html"
+        },
+        "start_date": { 
+          
+          "year": "1924"
+        },
+        "text": {
+          "headline": "Bernard Avenue Garage Ltd./Le Clos Saint-Bernard"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/dow01.jpg",
+          "caption": "William Dow Brewery Co./La Brasserie O'Keefe",
+          "link": "https://sgolds15.github.io/industrial/items/in043.html"
+        },
+        "start_date": { 
+          
+          "year": "1925"
+        },
+        "text": {
+          "headline": "William Dow Brewery Co./La Brasserie O'Keefe",
+          "text": "View looking north (1999)"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Elmhurst Dairy Ltd./Laiterie Sealtest",
+          "link": "https://sgolds15.github.io/industrial/items/in044.html"
+        },
+        "start_date": { 
+          
+          "year": "1928"
+        },
+        "text": {
+          "headline": "Elmhurst Dairy Ltd./Laiterie Sealtest"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Harrison Brothers/La Boulangerie POM",
+          "link": "https://sgolds15.github.io/industrial/items/in045.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "Harrison Brothers/La Boulangerie POM"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Compagnie aerienne franco-canadienne",
+          "link": "https://sgolds15.github.io/industrial/items/in047.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "Compagnie aerienne franco-canadienne"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/buchpenn.jpg",
+          "caption": "Warehouses of Buchanan and Penn",
+          "link": "https://sgolds15.github.io/industrial/items/in048.html"
+        },
+        "start_date": { 
+          
+          "year": "1845"
+        },
+        "text": {
+          "headline": "Warehouses of Buchanan and Penn",
+          "text": "View of Duke Street facades, looking north-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canvickers.jpg",
+          "caption": "Canadian Vickers",
+          "link": "https://sgolds15.github.io/industrial/items/in049.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Canadian Vickers",
+          "text": "View, looking north, of old sheet and metal shop (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/redpath02.jpg",
+          "caption": "Redpath Sugar Refinery",
+          "link": "https://sgolds15.github.io/industrial/items/in051.html"
+        },
+        "start_date": { 
+          
+          "year": "1856"
+        },
+        "text": {
+          "headline": "Redpath Sugar Refinery"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/belding01.jpg",
+          "caption": "Belding Corticelli",
+          "link": "https://sgolds15.github.io/industrial/items/in052.html"
+        },
+        "start_date": { 
+          
+          "year": "1884"
+        },
+        "text": {
+          "headline": "Belding Corticelli"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/clarkbell.jpg",
+          "caption": "Clark Bell Factory",
+          "link": "https://sgolds15.github.io/industrial/items/in053.html"
+        },
+        "start_date": { 
+          
+          "year": "1890"
+        },
+        "text": {
+          "headline": "Clark Bell Factory",
+          "text": "View, looking south-east (1999)"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Dominion Flour Mills Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in054.html"
+        },
+        "start_date": { 
+          
+          "year": "1900"
+        },
+        "text": {
+          "headline": "Dominion Flour Mills Co. Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/hodgson.jpg",
+          "caption": "John C. Hodgson Co./Stelco",
+          "link": "https://sgolds15.github.io/industrial/items/in055.html"
+        },
+        "start_date": { 
+          
+          "year": "1889"
+        },
+        "text": {
+          "headline": "John C. Hodgson Co./Stelco"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/merch07.jpg",
+          "caption": "Merchants Manufacturing Company/Dominion Textiles Co./Coleco",
+          "link": "https://sgolds15.github.io/industrial/items/in056.html"
+        },
+        "start_date": { 
+          
+          "year": "1880"
+        },
+        "text": {
+          "headline": "Merchants Manufacturing Company/Dominion Textiles Co./Coleco"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canbag.jpg",
+          "caption": "Canadian Bag Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in057.html"
+        },
+        "start_date": { 
+          
+          "year": "1914"
+        },
+        "text": {
+          "headline": "Canadian Bag Co.",
+          "text": "View looking west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/stelco01.jpg",
+          "caption": "Steel Company of Canada Ltd./Stelco",
+          "link": "https://sgolds15.github.io/industrial/items/in058.html"
+        },
+        "start_date": { 
+          
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Steel Company of Canada Ltd./Stelco"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ogilvie%20glenora.jpg",
+          "caption": "Glenora Mill/A.W. Ogilvie & Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in059.html"
+        },
+        "start_date": { 
+          
+          "year": "1837"
+        },
+        "text": {
+          "headline": "Glenora Mill/A.W. Ogilvie & Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/phillips.jpg",
+          "caption": "Phillips Electrical Works",
+          "link": "https://sgolds15.github.io/industrial/items/in060.html"
+        },
+        "start_date": { 
+          
+          "year": "1888"
+        },
+        "text": {
+          "headline": "Phillips Electrical Works",
+          "text": "Stylized illustrtation of the Phillips Electrical Wroks from the turn of the century; from Montreal: The Commercial Metropolis of Canada and the History of the Gazette 1778-1907 (Montreal: Gazette Printing, 1907), 274."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/robin.jpg",
+          "caption": "Robin and Sadler Co./ Sadler Inc.",
+          "link": "https://sgolds15.github.io/industrial/items/in061.html"
+        },
+        "start_date": { 
+          
+          "year": "1894"
+        },
+        "text": {
+          "headline": "Robin and Sadler Co./ Sadler Inc.",
+          "text": "View, looking north (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canss.jpg",
+          "caption": "Canadian Switch and Spring Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in062.html"
+        },
+        "start_date": { 
+          
+          "year": "1899"
+        },
+        "text": {
+          "headline": "Canadian Switch and Spring Co.",
+          "text": "View from rue du Canal, looking east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/lowney.jpg",
+          "caption": "Walter M. Lowney Co. of Canada",
+          "link": "https://sgolds15.github.io/industrial/items/in063.html"
+        },
+        "start_date": { 
+          
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Walter M. Lowney Co. of Canada",
+          "text": "View, looking north-west, from rue Shannon (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/massey.jpg",
+          "caption": "Massey Manufacturing Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in064.html"
+        },
+        "start_date": { 
+          
+          "year": "1891"
+        },
+        "text": {
+          "headline": "Massey Manufacturing Co.",
+          "text": "View, looking north from rue Duke (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/afgault.jpg",
+          "caption": "Andrew Frederick Gault Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in065.html"
+        },
+        "start_date": { 
+          
+          "year": "1900"
+        },
+        "text": {
+          "headline": "Andrew Frederick Gault Co.",
+          "text": "View looking east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/hill.jpg",
+          "caption": "Warehouse of William Dow/ Hill Warehouse",
+          "link": "https://sgolds15.github.io/industrial/items/in066.html"
+        },
+        "start_date": { 
+          
+          "year": "1864"
+        },
+        "text": {
+          "headline": "Warehouse of William Dow/ Hill Warehouse"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/royal.jpg",
+          "caption": "Royal Electric Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in067.html"
+        },
+        "start_date": { 
+          
+          "year": "1902"
+        },
+        "text": {
+          "headline": "Royal Electric Co.",
+          "text": "Looking west from the intersection of Wellington and Queen (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/darling1.jpg",
+          "caption": "Darling Bros. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in068.html"
+        },
+        "start_date": { 
+          
+          "year": "1889"
+        },
+        "text": {
+          "headline": "Darling Bros. Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ge1.jpg",
+          "caption": "Grain Elevator No. 1",
+          "link": "https://sgolds15.github.io/industrial/items/in070.html"
+        },
+        "start_date": { 
+          
+          "year": "1903"
+        },
+        "text": {
+          "headline": "Grain Elevator No. 1"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ge3a.jpg",
+          "caption": "Grain Elevator No. 3",
+          "link": "https://sgolds15.github.io/industrial/items/in071.html"
+        },
+        "start_date": { 
+          
+          "year": "1924"
+        },
+        "text": {
+          "headline": "Grain Elevator No. 3"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ge5.jpg",
+          "caption": "Grain Elevator No. 5",
+          "link": "https://sgolds15.github.io/industrial/items/in072.html"
+        },
+        "start_date": { 
+          
+          "year": "1958"
+        },
+        "text": {
+          "headline": "Grain Elevator No. 5"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canrubber01.jpg",
+          "caption": "Canadian Rubber Co. of Montreal",
+          "link": "https://sgolds15.github.io/industrial/items/in073.html"
+        },
+        "start_date": { 
+          
+          "year": "1854"
+        },
+        "text": {
+          "headline": "Canadian Rubber Co. of Montreal"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Ste-Anne Spinning Wool",
+          "link": "https://sgolds15.github.io/industrial/items/in074.html"
+        },
+        "start_date": { 
+          
+          "year": "1882"
+        },
+        "text": {
+          "headline": "Ste-Anne Spinning Wool"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/slsugar01.jpg",
+          "caption": "St. Lawrence Sugar Refining Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in075.html"
+        },
+        "start_date": { 
+          
+          "year": "1887"
+        },
+        "text": {
+          "headline": "St. Lawrence Sugar Refining Co. Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/kruger01.jpg",
+          "caption": "Kruger",
+          "link": "https://sgolds15.github.io/industrial/items/in076.html"
+        },
+        "start_date": { 
+          
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Kruger"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/montex01.jpg",
+          "caption": "Les Industries Montex Ltee.",
+          "link": "https://sgolds15.github.io/industrial/items/in077.html"
+        },
+        "start_date": { 
+          
+          "year": "1944"
+        },
+        "text": {
+          "headline": "Les Industries Montex Ltee."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in078.jpg",
+          "caption": "(unknown)",
+          "link": "https://sgolds15.github.io/industrial/items/in078.html"
+        },
+        "start_date": { 
+          
+          "year": "1928"
+        },
+        "text": {
+          "headline": "(unknown)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/bedarco01.jpg",
+          "caption": "Bédarco McGruer Inc.",
+          "link": "https://sgolds15.github.io/industrial/items/in079.html"
+        },
+        "start_date": { 
+          
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Bédarco McGruer Inc."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in080.jpg",
+          "caption": "Enerquin Air",
+          "link": "https://sgolds15.github.io/industrial/items/in080.html"
+        },
+        "start_date": { 
+          
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Enerquin Air"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/sidbecdosco02.jpg",
+          "caption": "Sidbec Dosco",
+          "link": "https://sgolds15.github.io/industrial/items/in081.html"
+        },
+        "start_date": { 
+          
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Sidbec Dosco"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/cancarb01.jpg",
+          "caption": "Canadian Carbonate Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in084.html"
+        },
+        "start_date": { 
+          
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Canadian Carbonate Ltd."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/toshiba01.jpg",
+          "caption": "Jaztex et Austres",
+          "link": "https://sgolds15.github.io/industrial/items/in085.html"
+        },
+        "start_date": { 
+          
+          "year": "1923"
+        },
+        "text": {
+          "headline": "Jaztex et Austres"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/jwi01.jpg",
+          "caption": "J.W.I. (Johnson Wire)",
+          "link": "https://sgolds15.github.io/industrial/items/in088.html"
+        },
+        "start_date": { 
+          
+          "year": "1901"
+        },
+        "text": {
+          "headline": "J.W.I. (Johnson Wire)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/stanchem01.jpg",
+          "caption": "Stanchem (Standard Chemical)",
+          "link": "https://sgolds15.github.io/industrial/items/in089.html"
+        },
+        "start_date": { 
+          
+          "year": "1939"
+        },
+        "text": {
+          "headline": "Stanchem (Standard Chemical)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/simmons04.jpg",
+          "caption": "Simmons Ltd./ Complexe du Canal",
+          "link": "https://sgolds15.github.io/industrial/items/in090.html"
+        },
+        "start_date": { 
+          
+          "year": "1919"
+        },
+        "text": {
+          "headline": "Simmons Ltd./ Complexe du Canal"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/powerboat01.jpg",
+          "caption": "Canadian Power Boat Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in092.html"
+        },
+        "start_date": { 
+          
+          "year": "1940"
+        },
+        "text": {
+          "headline": "Canadian Power Boat Co.",
+          "text": "View of factory complex, looking south-east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in093.jpg",
+          "caption": "R.C.A. Victor Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in093.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "R.C.A. Victor Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/thumbnails/amurray.jpg",
+          "caption": "Alexander Murray Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in094.html"
+        },
+        "start_date": { 
+          
+          "year": "1929"
+        },
+        "text": {
+          "headline": "Alexander Murray Co. Ltd.",
+          "text": "View looking south-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in095.jpg",
+          "caption": "Factory",
+          "link": "https://sgolds15.github.io/industrial/items/in095.html"
+        },
+        "start_date": { 
+          
+          "year": "1933"
+        },
+        "text": {
+          "headline": "Factory",
+          "text": "View of inner courtyard, looking south-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/colgate.jpg",
+          "caption": "Depothéque",
+          "link": "https://sgolds15.github.io/industrial/items/in096.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Depothéque"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/congoleum01.jpg",
+          "caption": "Congoleum Canada Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in097.html"
+        },
+        "start_date": { 
+          
+          "year": "1928"
+        },
+        "text": {
+          "headline": "Congoleum Canada Ltd."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Sun Oil",
+          "link": "https://sgolds15.github.io/industrial/items/in098.html"
+        },
+        "start_date": { 
+          
+          "year": "1915"
+        },
+        "text": {
+          "headline": "Sun Oil"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/esso01.jpg",
+          "caption": "Pétroles Esso Canada",
+          "link": "https://sgolds15.github.io/industrial/items/in101.html"
+        },
+        "start_date": { 
+          
+          "year": "1914"
+        },
+        "text": {
+          "headline": "Pétroles Esso Canada",
+          "text": "View looking south-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/imperial03.jpg",
+          "caption": "Impérial Tobacco",
+          "link": "https://sgolds15.github.io/industrial/items/in102.html"
+        },
+        "start_date": { 
+          
+          "year": "1912"
+        },
+        "text": {
+          "headline": "Impérial Tobacco"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/cwwilliams01.jpg",
+          "caption": "C.W. Williams Manufacturing Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in103.html"
+        },
+        "start_date": { 
+          
+          "year": "1879"
+        },
+        "text": {
+          "headline": "C.W. Williams Manufacturing Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/pittind.jpg",
+          "caption": "Canadian Pittsburgh Industrie",
+          "link": "https://sgolds15.github.io/industrial/items/in105.html"
+        },
+        "start_date": { 
+          
+          "year": "1925"
+        },
+        "text": {
+          "headline": "Canadian Pittsburgh Industrie",
+          "text": "View, looking north, from rue d'Argenson (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/rhood01.jpg",
+          "caption": "Robin Hood Multifood",
+          "link": "https://sgolds15.github.io/industrial/items/in106.html"
+        },
+        "start_date": { 
+          
+          "year": "1911"
+        },
+        "text": {
+          "headline": "Robin Hood Multifood"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/swing.jpg",
+          "caption": "Swing Paints Factory",
+          "link": "https://sgolds15.github.io/industrial/items/in107.html"
+        },
+        "start_date": { 
+          
+          "year": "1892"
+        },
+        "text": {
+          "headline": "Swing Paints Factory",
+          "text": "View, looking south-west, of storage buildings (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/belltel.jpg",
+          "caption": "Ancien Bell Téléphone",
+          "link": "https://sgolds15.github.io/industrial/items/in108.html"
+        },
+        "start_date": { 
+          
+          "year": "1922"
+        },
+        "text": {
+          "headline": "Ancien Bell Téléphone"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in110.jpg",
+          "caption": "Produits Alimentaires",
+          "link": "https://sgolds15.github.io/industrial/items/in110.html"
+        },
+        "start_date": { 
+          
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Produits Alimentaires",
+          "text": "View looking north-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/domglass01.jpg",
+          "caption": "Dominion Glass",
+          "link": "https://sgolds15.github.io/industrial/items/in112.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Dominion Glass"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/mmecaniq.jpg",
+          "caption": "Menuiserie Mécanique",
+          "link": "https://sgolds15.github.io/industrial/items/in114.html"
+        },
+        "start_date": { 
+          
+          "year": "1887"
+        },
+        "text": {
+          "headline": "Menuiserie Mécanique",
+          "text": "View, looking east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/gair.jpg",
+          "caption": "Gair Company of Canada (Canadian Paper Board)",
+          "link": "https://sgolds15.github.io/industrial/items/in115.html"
+        },
+        "start_date": { 
+          
+          "year": "1870"
+        },
+        "text": {
+          "headline": "Gair Company of Canada (Canadian Paper Board)",
+          "text": "View looking south-east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in116c.jpg",
+          "caption": "Warehouses",
+          "link": "https://sgolds15.github.io/industrial/items/in116.html"
+        },
+        "start_date": { 
+          
+          "year": "1943"
+        },
+        "text": {
+          "headline": "Warehouses"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in117.jpg",
+          "caption": "Caledonian Iron works",
+          "link": "https://sgolds15.github.io/industrial/items/in117.html"
+        },
+        "start_date": { 
+          
+          "year": "1879"
+        },
+        "text": {
+          "headline": "Caledonian Iron works",
+          "text": "View looking north-east (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in118.jpg",
+          "caption": "(unknown)",
+          "link": "https://sgolds15.github.io/industrial/items/in118.html"
+        },
+        "start_date": { 
+          
+          "year": "1938"
+        },
+        "text": {
+          "headline": "(unknown)",
+          "text": "View, looking south, of front façade (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/in119a.jpg",
+          "caption": "Canada Jute Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in119.html"
+        },
+        "start_date": { 
+          
+          "year": "1889"
+        },
+        "text": {
+          "headline": "Canada Jute Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/seaway1.jpg",
+          "caption": "Bureau du Canal",
+          "link": "https://sgolds15.github.io/industrial/items/in125.html"
+        },
+        "start_date": { 
+          
+          "year": "1925"
+        },
+        "text": {
+          "headline": "Bureau du Canal"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/canpack.jpg",
+          "caption": "Canada Packers Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in126.html"
+        },
+        "start_date": { 
+          
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Canada Packers Ltd.",
+          "text": "Looking south-west, offices in foreground (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/mcclary.jpg",
+          "caption": "McClary Manufacturing Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in128.html"
+        },
+        "start_date": { 
+          
+          "year": "1911"
+        },
+        "text": {
+          "headline": "McClary Manufacturing Co.",
+          "text": "View, looking south-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/waggon.jpg",
+          "caption": "St.Lawrence Wagon Co. Ltd.",
+          "link": "https://sgolds15.github.io/industrial/items/in129.html"
+        },
+        "start_date": { 
+          
+          "year": "1825"
+        },
+        "text": {
+          "headline": "St.Lawrence Wagon Co. Ltd.",
+          "text": "View, looking south-west (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/fiver.jpg",
+          "caption": "Five Roses Flour Mill",
+          "link": "https://sgolds15.github.io/industrial/items/in132.html"
+        },
+        "start_date": { 
+          
+          "year": "1943"
+        },
+        "text": {
+          "headline": "Five Roses Flour Mill"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/maxwell.jpg",
+          "caption": "E.J. Maxwell Ltée.",
+          "link": "https://sgolds15.github.io/industrial/items/in133.html"
+        },
+        "start_date": { 
+          
+          "year": "1930"
+        },
+        "text": {
+          "headline": "E.J. Maxwell Ltée.",
+          "text": "View, looking south, of one of the last remaining offices (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ivesall1.jpg",
+          "caption": "Ives and Allen Company",
+          "link": "https://sgolds15.github.io/industrial/items/in134.html"
+        },
+        "start_date": { 
+          
+          "year": "1909"
+        },
+        "text": {
+          "headline": "Ives and Allen Company"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/hagar01.jpg",
+          "caption": "Édifice Hagar",
+          "link": "https://sgolds15.github.io/industrial/items/in135.html"
+        },
+        "start_date": { 
+          
+          "year": "1855"
+        },
+        "text": {
+          "headline": "Édifice Hagar"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/nelectri.jpg",
+          "caption": "Northern Electric Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in136.html"
+        },
+        "start_date": { 
+          
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Northern Electric Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/weir02.jpg",
+          "caption": "J. & R. Weir factory/ Zone",
+          "link": "https://sgolds15.github.io/industrial/items/in137.html"
+        },
+        "start_date": { 
+          
+          "year": "1875"
+        },
+        "text": {
+          "headline": "J. & R. Weir factory/ Zone"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/ames01.jpg",
+          "caption": "Ames, Holden & Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in139.html"
+        },
+        "start_date": { 
+          
+          "year": "1879"
+        },
+        "text": {
+          "headline": "Ames, Holden & Co."
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/molson01.jpg",
+          "caption": "Molson Brewery",
+          "link": "https://sgolds15.github.io/industrial/items/in140.html"
+        },
+        "start_date": { 
+          
+          "year": "1907"
+        },
+        "text": {
+          "headline": "Molson Brewery"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/examin02.jpg",
+          "caption": "Customs Examining Warehouse",
+          "link": "https://sgolds15.github.io/industrial/items/in141.html"
+        },
+        "start_date": { 
+          
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Customs Examining Warehouse"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/biscuiterie.jpg",
+          "caption": "Biscuiterie Viau",
+          "link": "https://sgolds15.github.io/industrial/items/in142.html"
+        },
+        "start_date": { 
+          
+          "year": "1907"
+        },
+        "text": {
+          "headline": "Biscuiterie Viau",
+          "text": "View, looking west, from the intersection of rue Ontario and rue Ville-Marie (1999)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/wcmacdonald02.jpg",
+          "caption": "W.C. Macdonald's Tobacco Factory",
+          "link": "https://sgolds15.github.io/industrial/items/in143.html"
+        },
+        "start_date": { 
+          
+          "year": "1875"
+        },
+        "text": {
+          "headline": "W.C. Macdonald's Tobacco Factory"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Consumers Cordage",
+          "link": "https://sgolds15.github.io/industrial/items/in144.html"
+        },
+        "start_date": { 
+          
+          "year": "1910"
+        },
+        "text": {
+          "headline": "Consumers Cordage"
+        }
+      },{
+        "media": {
+          "url": "https://digital.library.mcgill.ca/industrial/images/cancork02.jpg",
+          "caption": "Canadian Cork Cutting Co.",
+          "link": "https://sgolds15.github.io/industrial/items/in145.html"
+        },
+        "start_date": { 
+          
+          "year": "1887"
+        },
+        "text": {
+          "headline": "Canadian Cork Cutting Co."
+        }
+      }
+    ]
+}
